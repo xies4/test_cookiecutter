@@ -1,0 +1,4 @@
+pipeline: ""
+genome_build: ""
+raw_data_folder: ""
+cookiecutter_hooks: cookiecutter_hooks.py
