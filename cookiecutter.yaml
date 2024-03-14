@@ -1,4 +1,5 @@
 pipeline: ""
 genome_build: ""
 raw_data_folder: ""
+repo_name: ""
 cookiecutter_hooks: cookiecutter_hooks.py
